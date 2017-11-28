@@ -1,12 +1,13 @@
 # ruby-pdf-watermark
 
-we need 
-gem install combine_pdf
+**gem needed**<br/> 
+gem install combine_pdf<br/>
 
-the watermark needs to be a pdf(to be customized)
-watermark.pdf
+**the watermark needs to be a pdf(to be customized)**<br/>
+watermark.pdf<br/>
 
-input
-chicken.pdf
+**input**<br/>
+chicken.pdf<br/>
 
-ruby pdf.rb
+**to run**<br/>
+ruby pdf.rb<br/>
