@@ -1,10 +1,11 @@
 # ruby-pdf-watermark
 
-**gem needed**<br/> 
+**gems needed**<br/> 
 gem install combine_pdf<br/>
+gem install prawn<br/>
 
-**the watermark needs to be a pdf(to be customized)**<br/>
-watermark.pdf<br/>
+**the watermark will be generated from png file**<br/>
+watermark.png<br/>
 
 **input**<br/>
 chicken.pdf<br/>
